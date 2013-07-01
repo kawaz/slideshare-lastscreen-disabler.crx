@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "slideshare lastscreen disabler",
+    "description": "slideshare lastscreen disabler"
+  },
+  "appDescription": {
+    "message": "slideshareの最終ページ後に出てくる「他のスライドもあります的な画面」が表示されないようにする。",
+    "description": "Dsiable slideshare's lastscreen."
+  }
+}
